@@ -6,7 +6,7 @@ Summary:	Material You color generation algorithms in pure python!
 URL:		https://pypi.org/project/materialyoucolor/
 License:	None
 Group:		Development/Python
-BuildRequires:	python
+BuildRequires:	pkgconfig(python)
 BuildSystem:	python
 
 %description

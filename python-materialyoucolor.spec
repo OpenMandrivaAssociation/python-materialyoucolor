@@ -1,6 +1,6 @@
 Name:		python-materialyoucolor
 Version:	2.0.10
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/m/materialyoucolor/materialyoucolor-%{version}.tar.gz
 Summary:	Material You color generation algorithms in pure python!
 URL:		https://pypi.org/project/materialyoucolor/
